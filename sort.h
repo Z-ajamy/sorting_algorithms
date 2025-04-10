@@ -8,7 +8,7 @@
  * This header file will contain function prototypes, data structures,
  * and constants related to sorting algorithms.
  * Add your sorting-related declarations below this comment block.
- */
+*/
 
 
 /**
